@@ -9,16 +9,18 @@ I can:
 * develop games with Unity and Godot
 
 
-I love:
+<!-- I love:
 
 * learning new stuff
 * programming/coding
 * singing
 * making art 
-* my friends :)
+* my friends :) -->
 
 Currently working on AI Art and making stickers OvO
 
-<img src="Sticker_hut_v1.png" width="300" height="300">
+<!-- <img src="Sticker_hut_v1.png" width="300" height="300"> -->
+
+<img src="Sticker_hut_v1.png" width="200" height="200">
 
 
