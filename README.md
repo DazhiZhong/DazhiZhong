@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there! Im Dazhi Zhong!
 
-<!--
-**DazhiZhong/DazhiZhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can:
 
-Here are some ideas to get you started:
+* do full-stack development
+* use Django, React.js, and Taro
+* do academic research in deep learning
+* analyze data with machine learning using python 
+* develop games with Unity and Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I love:
+
+* learning new stuff
+* programming/coding
+* singing
+* making art 
+* my friends :)
+
+Currently working on AI Art and making stickers OvO
+
+
+
+
