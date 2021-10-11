@@ -19,6 +19,6 @@ I love:
 
 Currently working on AI Art and making stickers OvO
 
-
+<img src="Sticker_hut_v1.png" width="300" height="300">
 
 
