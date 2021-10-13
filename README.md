@@ -1,4 +1,6 @@
-### Hi there! Im Dazhi Zhong! Undergrad @ USC ✌️
+### Hi there! Im Dazhi Zhong! 
+
+I am an undergrad @ USC ✌️
 
 I can:
 
