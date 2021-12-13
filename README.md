@@ -19,10 +19,14 @@ I can:
 * making art 
 * my friends :) -->
 
-Currently working on AI Art and making stickers OvO
+Currently working on AI Art
 
 <!-- <img src="Sticker_hut_v1.png" width="300" height="300"> -->
 
-<img src="Sticker_hut_v1.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/48539523/145904918-2ee2112d-92f9-4337-89e2-14056da23839.mp4" width="200" height="200">
+
+
+
+
 
 
